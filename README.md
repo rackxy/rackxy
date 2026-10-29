@@ -2,7 +2,7 @@
 
 ### Aspiring Data Analyst | BCA Student
 
-I'm a BCA student at Alliance University interested in data analytics, business intelligence, and technology. I enjoy exploring data, identifying trends, and building projects that solve practical problems.
+I'm a BCA student at Alliance University interested in data analytics, business intelligence, and technology. I enjoy exploring data, identifying trends, and presenting insights through dashboards and practical projects.
 
 ## 🎯 Current Focus
 - Learning Python, SQL, Power BI, and data visualization
@@ -10,10 +10,10 @@ I'm a BCA student at Alliance University interested in data analytics, business 
 - Improving my analytical and problem-solving skills
 
 ## 🛠️ Skills
-- **Languages:** Python, Java, JavaScript, SQL
-- **Data Analytics:** Power BI, Excel, Pandas, NumPy
-- **Other Interests:** Machine Learning, Generative AI, Web Development
+- **Programming:** Python, SQL, Java, JavaScript
+- **Data Analytics:** Excel, Power BI, Pandas, NumPy
 - **Tools:** Git, GitHub, Jupyter Notebook
+- **Areas of Interest:** Business Intelligence, Machine Learning, Generative AI
 
 ## 🚀 Featured Projects
 
@@ -21,19 +21,22 @@ I'm a BCA student at Alliance University interested in data analytics, business 
 Data analysis projects focused on exploring business data and generating insights.  
 [View Repository](https://github.com/rackxy/Business_analytics)
 
+### 📈 Student Performance Dashboard
+A Power BI dashboard for exploring student performance and academic metrics.  
+[View Projects](https://github.com/rackxy)
+
 ### 🌱 Kheti Sahayak
-A project focused on providing agricultural assistance and useful resources.  
+A project focused on agricultural assistance and useful resources for farmers.  
 [View Repository](https://github.com/rackxy/kheti-sahayak)
 
 ### ✈️ SmartFly AI
-An AI-powered travel project focused on flight and travel planning.  
+An AI-powered travel project focused on flight searches and travel planning.  
 [View Repository](https://github.com/rackxy/smartfly.ai)
 
 ### 🌐 Personal Portfolio
-Explore my portfolio and projects.  
+Explore my projects, skills, and work.  
 [Visit Portfolio](https://gagan23.vercel.app)
 
 ## 📫 Connect With Me
-- **Portfolio:** https://gagan23.vercel.app
-- **GitHub:** https://github.com/rackxy
-- **LinkedIn:** Add your LinkedIn profile URL here
+- **Portfolio:** [gagan23.vercel.app](https://gagan23.vercel.app)
+- **GitHub:** [@rackxy](https://github.com/rackxy)
